@@ -16,11 +16,20 @@ ___
 <h2 align="center">Week 1 Notes;</h2>
 
 <br>
-
+<p align="center">Start: Unknown</p>
 <p align="center">3/30/22</p>
+
+<p align="center">Done: 12:47AM</p>
+<p align="center">3/31/22</p>
 
 <br>
 
 > - Added soil to seed starters.
 > - Checked PH of nutrients.
 > - Added germinated seeds to seed starters.
+
+- PH: 6.7
+- EC: 0360(ish)
+- LUX: 400(ish)
+- Seeds planted: 7/10
+- Purple Punch & Midnight Snack labeled underneath
