@@ -52,7 +52,7 @@ Plants are ready to transplant when a healthy root structure encompasses most of
 
 ___
 
-<p>When to stop watering before harvest</p>
+<p>When to stop watering before harvest;</p>
 
 <br>
 
