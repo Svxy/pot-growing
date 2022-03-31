@@ -47,3 +47,5 @@ ___
 <p>Waiting...</p>
 
 <br>
+
+<h4 align="right">By TnyavnTo @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
