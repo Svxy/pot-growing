@@ -42,7 +42,8 @@ ___
 
 <br>
 
-<p>Waiting...</p>
+- Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
+- Order necessary equipment on Amazon
 
 <br>
 
