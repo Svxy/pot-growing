@@ -31,6 +31,7 @@ ___
 > - Added soil to seed starters.
 > - Checked PH of nutrients.
 > - Added germinated seeds to seed starters.
+> - Rewatered seed starters @ 7:35AM 3/31/22
 
 - PH: 6.7
 - EC: 0360(ish)
