@@ -20,6 +20,8 @@ ___
 <h2 align="center">Week 1 Notes;</h2>
 
 <br>
+
+<p align="center"><b>Planted seeds in seed starters:</b></p>
 <p align="center">Start: Unknown</p>
 <p align="center">3/30/22</p>
 
@@ -43,8 +45,9 @@ ___
 
 <br>
 
-- Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
-- Order necessary equipment on Amazon
+> - Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
+> - Order necessary equipment on Amazon
+> - Rewater on April 4th, or 5th.
 
 <br>
 
