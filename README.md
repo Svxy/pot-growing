@@ -9,6 +9,8 @@ ___
 
 ![previewPDF1](https://github.com/Svxy/Pot-Growing/blob/main/assets/pdf_1.png?raw=true)
 
+![WateringSchedule](https://github.com/Svxy/Pot-Growing/blob/main/assets/watering.png?raw=true)
+
 <br>
 
 - Note how often plants are watered and write it down in a log
