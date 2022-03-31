@@ -39,3 +39,11 @@ ___
 - LUX: 400(ish)
 - Seeds planted: 7/10
 - Purple Punch & Midnight Snack labeled underneath
+
+<p align="center">To do;</p>
+
+<br>
+
+<p>Waiting...</p>
+
+<br>
