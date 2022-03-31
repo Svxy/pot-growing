@@ -5,9 +5,13 @@ ___
 
 ### General Notes for this weeks grow (3/30/22)
 
-### PDF 1;
+### General Notes/Info;
 
 ![previewPDF1](https://github.com/Svxy/Pot-Growing/blob/main/assets/pdf_1.png?raw=true)
+
+<br>
+
+- Note how often plants are watered and write it down in a log
 
 <br>
 
