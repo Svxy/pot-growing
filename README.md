@@ -3,8 +3,6 @@
 
 ___
 
-### General Notes for this weeks grow (3/30/22)
-
 ### General Notes/Info;
 
 ![previewPDF1](https://github.com/Svxy/Pot-Growing/blob/main/assets/pdf_1.png?raw=true)
