@@ -19,10 +19,6 @@ ___
 
 <br>
 
-<p align="center"><b>Planted seeds in seed starters:</b></p>
-<p align="center">Start: Unknown</p>
-<p align="center">3/30/22</p>
-
 <p align="center">Done: 12:47AM</p>
 <p align="center">3/31/22</p>
 
@@ -37,14 +33,21 @@ ___
 <br>
 
 > - [x] Add soil to seed starters.
+> - [x] Plant seeds in seed starters.
 > - [x] Check PH of nutrients.
 > - [x] Add germinated seeds to seed starters.
-> - [x] Rewater seed starters @ 7:35AM 3/31/22
+> - [x] Rewatered seed starters @ 7:35AM 3/31/22
 > - [x] Order necessary equipment on Amazon
 > - Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 > - Rewater on April 4th, or 5th.
 > - Make plans for other sprouted seeds
 > - Note how often plants are watered and write it down in a log
+
+<br>
+
+<h1 align=center>Watering logs;</h1>
+
+- Rewatered seed starters @ 7:35AM 3/31/22
 
 <br>
 
