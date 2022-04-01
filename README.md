@@ -48,6 +48,7 @@ ___
 > - Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 > - Order necessary equipment on Amazon
 > - Rewater on April 4th, or 5th.
+> - Make plans for other sprouted seeds
 
 <br>
 
