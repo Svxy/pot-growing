@@ -19,11 +19,6 @@ ___
 
 <br>
 
-<p align="center">Done: 12:47AM</p>
-<p align="center">3/31/22</p>
-
-<br>
-
 - PH: 6.7
 - EC: 0360(ish)
 - LUX: 400(ish)
@@ -46,6 +41,8 @@ ___
 <br>
 
 <h1 align=center>Watering logs;</h1>
+
+- Watered seed starters @ 12:47AM 3/31/22
 
 - Rewatered seed starters @ 7:35AM 3/31/22
 
