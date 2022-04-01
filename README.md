@@ -33,10 +33,12 @@ ___
 > - [x] Add germinated seeds to seed starters.
 > - [x] Rewatered seed starters @ 7:35AM 3/31/22
 > - [x] Order necessary equipment on Amazon
-> - Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
-> - Rewater on April 4th, or 5th.
-> - Make plans for other sprouted seeds
-> - Note how often plants are watered and write it down in a log
+> - [x] Make plans for other sprouted seeds
+> - [ ] Add soil to seed starters for late bloomers
+> - [ ] Water later bloomers (label and timestamp)
+> - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
+> - [ ] Rewater on April 4th, or 5th.
+> - [ ] Note how often plants are watered and write it down in a log
 
 <br>
 
