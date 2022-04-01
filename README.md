@@ -3,19 +3,17 @@
 
 ___
 
-### General Notes/Info;
-
 ![previewPDF1](https://github.com/Svxy/Pot-Growing/blob/main/assets/pdf_1.png?raw=true)
 
 ![WateringSchedule](https://github.com/Svxy/Pot-Growing/blob/main/assets/watering.png?raw=true)
 
 <br>
 
-- Note how often plants are watered and write it down in a log
+___
+
+<h2 align=center>General Notes/Info;</h2>
 
 <br>
-
-___
 
 <h2 align="center">Week 1 Notes;</h2>
 
@@ -46,6 +44,7 @@ ___
 > - Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 > - Rewater on April 4th, or 5th.
 > - Make plans for other sprouted seeds
+> - Note how often plants are watered and write it down in a log
 
 <br>
 
