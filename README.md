@@ -30,23 +30,20 @@ ___
 
 <br>
 
-> - Added soil to seed starters.
-> - Checked PH of nutrients.
-> - Added germinated seeds to seed starters.
-> - Rewatered seed starters @ 7:35AM 3/31/22
-
 - PH: 6.7
 - EC: 0360(ish)
 - LUX: 400(ish)
 - Seeds planted: 7/10
 - Purple Punch & Midnight Snack labeled underneath
 
-<p align="center">To do;</p>
-
 <br>
 
+> - [x] Add soil to seed starters.
+> - [x] Check PH of nutrients.
+> - [x] Add germinated seeds to seed starters.
+> - [x] Rewater seed starters @ 7:35AM 3/31/22
+> - [x] Order necessary equipment on Amazon
 > - Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
-> - Order necessary equipment on Amazon
 > - Rewater on April 4th, or 5th.
 > - Make plans for other sprouted seeds
 
