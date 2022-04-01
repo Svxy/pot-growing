@@ -40,6 +40,7 @@ ___
 > - [x] Water later bloomers (label and timestamp)
 > - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 > - [ ] Rewater on April 4th.
+> - [ ] Rewater late bloomers on April 5th.
 > - [ ] Note how often plants are watered and write it down in a log
 
 <br>
