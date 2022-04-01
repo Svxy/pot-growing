@@ -20,9 +20,11 @@ ___
 <br>
 
 - PH: 6.7
+- Late Bloomer PH: 6.68-6.7
 - EC: 0360(ish)
 - LUX: 400(ish)
-- Seeds planted: 7/10
+- Second Day Lux: 450(ish)
+- Seeds planted: 9
 - Purple Punch & Midnight Snack labeled underneath
 
 <br>
@@ -34,10 +36,10 @@ ___
 > - [x] Rewatered seed starters @ 7:35AM 3/31/22
 > - [x] Order necessary equipment on Amazon
 > - [x] Make plans for other sprouted seeds
-> - [ ] Add soil to seed starters for late bloomers
-> - [ ] Water later bloomers (label and timestamp)
+> - [x] Add soil to seed starters for late bloomers
+> - [x] Water later bloomers (label and timestamp)
 > - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
-> - [ ] Rewater on April 4th, or 5th.
+> - [ ] Rewater on April 4th.
 > - [ ] Note how often plants are watered and write it down in a log
 
 <br>
@@ -48,6 +50,7 @@ ___
 
 - Rewatered seed starters @ 7:35AM 3/31/22
 
+- Watered later bloomers @ 6:24 4/1/22
 <br>
 
 <h4 align="right">By TnyavnTo @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
