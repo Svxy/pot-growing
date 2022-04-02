@@ -41,7 +41,7 @@ ___
 > - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 > - [ ] Rewater on April 5th.
 > - [ ] Rewater late bloomers on April 6th.
-> - [ ] Note how often plants are watered and write it down in a log
+> - [x] Note how often plants are watered and write it down in a log below
 
 <br>
 
@@ -51,7 +51,7 @@ ___
 
 - Rewatered seed starters @ 7:35AM 3/31/22
 
-- Watered later bloomers @ 6:24 4/1/22
+- Watered later bloomers @ 6:24PM 4/1/22
 <br>
 
 <h4 align="right">By TnyavnTo @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
