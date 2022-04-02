@@ -34,7 +34,6 @@ ___
 > - [x] Plant seeds in seed starters.
 > - [x] Check PH of nutrients.
 > - [x] Add germinated seeds to seed starters.
-> - [x] Rewatered seed starters @ 7:35AM 3/31/22
 > - [x] Order necessary equipment on Amazon
 > - [x] Make plans for other sprouted seeds
 > - [x] Add soil to seed starters for late bloomers
