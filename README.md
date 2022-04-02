@@ -26,6 +26,7 @@ ___
 - Second Day Lux: 450(ish)
 - Seeds planted: 9
 - Purple Punch & Midnight Snack labeled underneath
+- Third Day Lux: 400(ish)
 
 <br>
 
