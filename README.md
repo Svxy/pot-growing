@@ -38,10 +38,11 @@ ___
 > - [x] Make plans for other sprouted seeds
 > - [x] Add soil to seed starters for late bloomers
 > - [x] Water later bloomers (label and timestamp)
+> - [x] Note how often plants are watered and write it down in a log below
+> - [x] Started germination process of Banana Wedding Cake seed @ 12:15AM 4/2/22
 > - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 > - [ ] Rewater on April 5th.
 > - [ ] Rewater late bloomers on April 6th.
-> - [x] Note how often plants are watered and write it down in a log below
 
 <br>
 
