@@ -29,6 +29,8 @@ ___
 - Seeds planted: 9
 - <b>Purple Punch</b> & <b>Midnight Snack</b> labeled underneath
 - Third Day Lux: 400(ish)
+- Fourth day PH: 6.7(ish)
+- Fourth day Lux: 450(ish)
 
 <br>
 
@@ -42,9 +44,9 @@ ___
 > - [x] Water later bloomers (label and timestamp)
 > - [x] Note how often plants are watered and write it down in a log below
 > - [x] Started germination process of <b>Banana Wedding Cake</b> seed @ 12:15AM 4/2/22
+> - [x] Rewater on April 4th.
 > - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
-> - [ ] Rewater on April 5th.
-> - [ ] Rewater late bloomers on April 6th.
+> - [ ] Rewater late bloomers on April 5th.
 
 <br>
 
@@ -55,6 +57,8 @@ ___
 - Rewatered seed starters @ 7:35AM 3/31/22
 
 - Watered later bloomers @ 6:24PM 4/1/22
+
+- Watered seed starters @ 4:25 4/4/22
 
 <br>
 
