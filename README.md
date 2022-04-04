@@ -9,6 +9,8 @@ ___
 
 ![WateringSchedule](https://github.com/Svxy/Pot-Growing/blob/main/assets/watering.png?raw=true)
 
+![Temp](https://github.com/Svxy/Pot-Growing/blob/main/assets/temp.png?raw=true)
+
 <br>
 
 ___
