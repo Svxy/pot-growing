@@ -60,7 +60,7 @@ ___
 
 - Watered later bloomers @ 6:24PM 4/1/22
 
-- Watered seed starters @ 4:25 4/4/22
+- Watered seed starters @ 4:25PM 4/4/22
 
 <br>
 
