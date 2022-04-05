@@ -33,6 +33,8 @@ ___
 - Third Day Lux: 400(ish)
 - Fourth day PH: 6.7(ish)
 - Fourth day Lux: 450(ish)
+- Fifth day PH: 6.62
+- Fifth day Lux: 390(ish)
 
 <br>
 
@@ -47,8 +49,10 @@ ___
 > - [x] Note how often plants are watered and write it down in a log below
 > - [x] Started germination process of <b>Banana Wedding Cake</b> seed @ 12:15AM 4/2/22
 > - [x] Rewater on April 4th.
+> - [x] Rewater late bloomers on April 5th.
+> - [ ] Rewater on April 8th.
+> - [ ] Rewater late bloomers on April 9th.
 > - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
-> - [ ] Rewater late bloomers on April 5th.
 
 <br>
 
@@ -61,6 +65,8 @@ ___
 - Watered later bloomers @ 6:24PM 4/1/22
 
 - Watered seed starters @ 4:25PM 4/4/22
+
+- Watered later bloomers @ 11:20AM 4/5/22
 
 <br>
 
