@@ -55,7 +55,7 @@ ___
 
 <br>
 
-<h1 align=center>Watering logs;</h1>
+<h1 align=center>Week 1 Watering logs;</h1>
 
 - Watered seed starters @ 12:47AM 3/31/22
 
@@ -83,7 +83,7 @@ ___
 
 <br>
 
-<h1 align=center>Watering logs;</h1>
+<h1 align=center>Week 2 Watering logs;</h1>
 
 - N/A
 
