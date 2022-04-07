@@ -15,6 +15,8 @@ ___
 
 ___
 
+<h3 align=center>Grow started; 3/31/22 Around 9PM</h3>
+
 <h2 align=center>General Notes/Info;</h2>
 
 <br>
