@@ -40,18 +40,18 @@ ___
 
 <br>
 
-> - [x] Add soil to seed starters.
-> - [x] Plant seeds in seed starters.
-> - [x] Check PH of nutrients.
-> - [x] Add germinated seeds to seed starters.
-> - [x] Order necessary equipment on Amazon
-> - [x] Make plans for other sprouted seeds
-> - [x] Add soil to seed starters for late bloomers
-> - [x] Water later bloomers (label and timestamp)
-> - [x] Note how often plants are watered and write it down in a log below
-> - [x] Started germination process of <b>Banana Wedding Cake</b> seed @ 12:15AM 4/2/22
-> - [x] Rewater on April 4th.
-> - [x] Rewater late bloomers on April 5th.
+ - [x] Add soil to seed starters.
+ - [x] Plant seeds in seed starters.
+ - [x] Check PH of nutrients.
+ - [x] Add germinated seeds to seed starters.
+ - [x] Order necessary equipment on Amazon
+ - [x] Make plans for other sprouted seeds
+ - [x] Add soil to seed starters for late bloomers
+ - [x] Water later bloomers (label and timestamp)
+ - [x] Note how often plants are watered and write it down in a log below
+ - [x] Started germination process of <b>Banana Wedding Cake</b> seed @ 12:15AM 4/2/22
+ - [x] Rewater on April 4th.
+ - [x] Rewater late bloomers on April 5th.
 
 <br>
 
@@ -69,7 +69,7 @@ ___
 
 <br>
 
-<h3 align="center">Week 1 Notes/Info;</h3>
+<h3 align="center">Week 2 Notes/Info;</h3>
 
 <br>
 
@@ -77,11 +77,11 @@ ___
 
 <br>
 
-> - [ ] Plant Late MOB next to late bloomers
-> - [ ] Move seedlings to bigger pots (URGENT)
-> - [ ] Rewater on April 8th.
-> - [ ] Rewater late bloomers on April 9th.
-> - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
+ - [ ] Plant Late MOB next to late bloomers
+ - [ ] Move seedlings to bigger pots (URGENT)
+ - [ ] Rewater on April 8th.
+ - [ ] Rewater late bloomers on April 9th.
+ - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
 <br>
 
