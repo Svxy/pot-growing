@@ -73,10 +73,12 @@ ___
 
 <br>
 
-- N/A\
+- N/A
 
 <br>
 
+> - [ ] Plant Late MOB next to late bloomers
+> - [ ] Move seedlings to bigger pots (URGENT)
 > - [ ] Rewater on April 8th.
 > - [ ] Rewater late bloomers on April 9th.
 > - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
