@@ -75,21 +75,23 @@ ___
 
 <br>
 
-- N/A
+- Transferred plants to red solo cups from seed starters
+- Seventh day PH 6.7-6.8
+- Late bloomers under new light
 
 <br>
 
+ - [x] Move seedlings to bigger pots (URGENT)
+ - [x] Rewater on April 7th.
  - [ ] Plant Late MOB next to late bloomers
- - [ ] Move seedlings to bigger pots (URGENT)
- - [ ] Rewater on April 8th.
- - [ ] Rewater late bloomers on April 9th.
+ - [ ] Rewater late bloomers on April 8th.
  - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
 <br>
 
 <h1 align=center>Week 2 Watering logs;</h1>
 
-- N/A
+- Watered plants @ 6:06PM 4/7/22
 
 <br>
 
