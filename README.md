@@ -79,13 +79,17 @@ ___
 - Seventh day PH 6.7-6.8
 - Late bloomers under new light
 - Purple pizzy and midnight snizzy labeled 
+- Transferred two late bloomers to red solo cups
+- Watered Late Bloomers with fresher water
+- Late bloomer PH: 6.8-6.9
+- Eighth day Lux: 400(ish)
 
 <br>
 
  - [x] Move seedlings to bigger pots (URGENT)
  - [x] Rewater on April 7th.
- - [ ] Transfer late bloomers to red solo cup
- - [ ] Rewater late bloomers on April 8th.
+ - [x] Transfer late bloomers to red solo cup
+ - [x] Rewater late bloomers on April 8th.
  - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
 <br>
@@ -93,6 +97,7 @@ ___
 <h1 align=center>Week 2 Watering logs;</h1>
 
 - Watered plants @ 6:06PM 4/7/22
+- Watered Late Bloomers @ 4:30 4/8/22
 
 <br>
 
