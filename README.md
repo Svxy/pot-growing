@@ -78,12 +78,13 @@ ___
 - Transferred plants to red solo cups from seed starters
 - Seventh day PH 6.7-6.8
 - Late bloomers under new light
+- Purple pizzy and midnight snizzy labeled 
 
 <br>
 
  - [x] Move seedlings to bigger pots (URGENT)
  - [x] Rewater on April 7th.
- - [ ] Plant Late MOB next to late bloomers
+ - [ ] Transfer late bloomers to red solo cup
  - [ ] Rewater late bloomers on April 8th.
  - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
