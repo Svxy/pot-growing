@@ -15,7 +15,7 @@ ___
 
 <h1 align="center">How much plants should be watered</h1>
 
-<img src="https://github.com/Svxy/Pot-Growing/blob/main/assets/watering.png?raw=true">
+<img src="https://github.com/Svxy/Pot-Growing/blob/grow/assets/watering.png?raw=true">
 
 <p>The amount of water plants need depends on these factors;</p>
 
