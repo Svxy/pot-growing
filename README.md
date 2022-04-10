@@ -57,15 +57,15 @@ ___
 
 <h1 align=center>Week 1 Watering logs;</h1>
 
-- Watered seed starters @ 12:47AM 3/31/22
+> - Watered seed starters @ 12:47AM 3/31/22
 
-- Rewatered seed starters @ 7:35AM 3/31/22
+> - Rewatered seed starters @ 7:35AM 3/31/22
 
-- Watered later bloomers @ 6:24PM 4/1/22
+> - Watered later bloomers @ 6:24PM 4/1/22
 
-- Watered seed starters @ 4:25PM 4/4/22
+> - Watered seed starters @ 4:25PM 4/4/22
 
-- Watered later bloomers @ 11:20AM 4/5/22
+> - Watered later bloomers @ 11:20AM 4/5/22
 
 ___
 
@@ -98,9 +98,9 @@ ___
 
 <h1 align=center>Week 2 Watering logs;</h1>
 
-- Watered plants @ 6:06PM 4/7/22
-- Watered Late Bloomers @ 4:30 4/8/22
-- Watered plants @4:20 4/10/22
+> - Watered plants @ 6:06PM 4/7/22
+> - Watered Late Bloomers @ 4:30 4/8/22
+> - Watered plants @4:20 4/10/22
 
 <br>
 
