@@ -87,7 +87,9 @@ ___
  - [x] Transfer late bloomers to red solo cup
  - [x] Rewater late bloomers on April 8th.
  - [x] Rewater on April 10th
- - [ ] Rewater late bloomers on April 11th
+ - [x] Rewater late bloomers on April 11th
+ - [ ] Rewater on April 14th
+ - [ ] Rewater late bloomers on April 15th
  - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
 <br>
@@ -95,8 +97,9 @@ ___
 <h1 align=center>Week 2 Watering logs;</h1>
 
 > - Watered plants @ 6:06PM 4/7/22
-> - Watered Late Bloomers @ 4:30 4/8/22
-> - Watered plants @4:20 4/10/22
+> - Watered Late Bloomers @ 4:30PM 4/8/22
+> - Watered plants @ 4:20PM 4/10/22
+> - Watered Late Bloomers @ 4:30PM 4/11/22
 
 <br>
 
