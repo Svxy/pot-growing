@@ -21,7 +21,7 @@ ___
 
 <br>
 
-<h3 align="center">Week 1 Notes/Info;</h3>
+<h1 align="center">Week 1 Notes/Info;</h1>
 
 <br>
 
@@ -55,7 +55,7 @@ ___
 
 <br>
 
-<h1 align=center>Week 1 Watering logs;</h1>
+<h2 align=center>Week 1 Watering logs;</h2>
 
 > - Watered seed starters @ 12:47AM 3/31/22
 > - Rewatered seed starters @ 7:35AM 3/31/22
@@ -67,7 +67,7 @@ ___
 
 <br>
 
-<h3 align="center">Week 2 Notes/Info;</h3>
+<h1 align="center">Week 2 Notes/Info;</h1>
 
 <br>
 
@@ -88,18 +88,40 @@ ___
  - [x] Rewater late bloomers on April 8th.
  - [x] Rewater on April 10th
  - [x] Rewater late bloomers on April 11th
- - [ ] Rewater on April 14th
- - [ ] Rewater late bloomers on April 15th
- - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
 <br>
 
-<h1 align=center>Week 2 Watering logs;</h1>
+<h2 align=center>Week 2 Watering logs;</h2>
 
 > - Watered plants @ 6:06PM 4/7/22
 > - Watered Late Bloomers @ 4:30PM 4/8/22
 > - Watered plants @ 4:20PM 4/10/22
 > - Watered Late Bloomers @ 4:30PM 4/11/22
+
+___
+
+<br>
+
+<h1 align="center">Week 3 Notes/Info;</h1>
+
+<br>
+
+- Fifteenth day Lux: 500(ish)
+- Fifteenth day PH: 6.6(ish)
+
+<br>
+
+ - [x] Rewater on April 15th
+ - [ ] Rewater late bloomers on April 16th
+ - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
+
+<br>
+
+<h2 align=center>Week 3 Watering logs;</h2>
+
+> - Watered plants @ 7:25 4/15/22
+
+___
 
 <br>
 
