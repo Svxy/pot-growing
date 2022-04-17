@@ -112,7 +112,10 @@ ___
 <br>
 
  - [x] Rewater on April 15th
+ - [x] Transfer plants and late bloomers to 2 gal pots
  - [ ] Rewater late bloomers on April 16th
+ - [ ] Rewater plants as per transfer 
+ - [ ] Add nutrients to water (first time) and make new log
  - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
 <br>
