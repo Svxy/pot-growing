@@ -113,9 +113,10 @@ ___
 
  - [x] Rewater on April 15th
  - [x] Transfer plants and late bloomers to 2 gal pots
- - [ ] Rewater late bloomers on April 16th
- - [ ] Rewater plants as per transfer 
- - [ ] Add nutrients to water (first time) and make new log
+ - [x] Rewater late bloomers on April 16th
+ - [x] Rewater plants as per transfer 
+ - [x] Add nutrients to water (first time) and make new log
+ - [ ] Water plants on April 21st (including late bloomers (as an experiment)) (With 1 pt cal-mag 1 pt grow big 2 pt big bloom)
  - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
 <br>
@@ -123,6 +124,7 @@ ___
 <h2 align=center>Week 3 Watering logs;</h2>
 
 > - Watered plants @ 7:25 4/15/22
+> - Watered all plants @ 11-11:40PM(ish) 4/16/22
 
 ___
 
