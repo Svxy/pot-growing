@@ -117,6 +117,8 @@ ___
  - [x] Rewater plants as per transfer 
  - [x] Add nutrients to water (first time) and make new log
  - [x] Water plants on April 22nd (including late bloomers (as an experiment))
+ - [ ] Water plants on April 26th
+ - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
 <br>
 
@@ -124,30 +126,11 @@ ___
 
 > - Watered plants @ 7:25 4/15/22
 > - Watered all plants @ 11-11:40PM(ish) 4/16/22 (With 1 pt cal-mag 1 pt grow big 2 pt big bloom)
-
-___
-
-<br>
-
-<h1 align="center">Week 4 Notes/Info;</h1>
-
-<br>
-
-- N/A
-
-<br>
-
- - [ ] Water plants on April 26th
- - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
-
-<br>
-
-<h2 align=center>Week 4 Watering logs;</h2>
-
 > - Watered all plants @ NUL 4/22/22 (With 1 pt cal-mag 1 pt grow big 2 pt big bloom)
 
 ___
 
 <br>
+
 
 <h4 align="right">By TnyavnTo @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
