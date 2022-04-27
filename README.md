@@ -117,7 +117,8 @@ ___
  - [x] Rewater plants as per transfer 
  - [x] Add nutrients to water (first time) and make new log
  - [x] Water plants on April 22nd (including late bloomers (as an experiment))
- - [ ] Water plants on April 26th
+ - [x] Water plants on April 26th
+ - [ ] Water plants on April 30th
  - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
 <br>
@@ -127,6 +128,7 @@ ___
 > - Watered plants @ 7:25 4/15/22
 > - Watered all plants @ 11-11:40PM(ish) 4/16/22 (With 1 pt cal-mag 1 pt grow big 2 pt big bloom)
 > - Watered all plants @ NUL 4/22/22 (With 1 pt cal-mag 1 pt grow big 2 pt big bloom)
+> - Watered all plants @ 10:45-10:50PM 4/26/22 (First flush (Just ph regulation))
 
 ___
 
