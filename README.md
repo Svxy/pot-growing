@@ -13,6 +13,12 @@ ___
 
 <br>
 
+<h3 align="center">Official FoxFarm PDF</h3>
+
+![FoxFarm](https://github.com/Svxy/Pot-Growing/blob/grow/assets/official-foxfarm.pdf?raw=true)
+
+<br>
+
 ___
 
 <h3 align=center>Grow started; 3/31/22 Around 9PM</h3>
