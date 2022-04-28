@@ -15,7 +15,7 @@ ___
 
 <h3 align="center">Official FoxFarm PDF</h3>
 
-![FoxFarm](https://github.com/Svxy/Pot-Growing/blob/grow/assets/official-foxfarm.pdf?raw=true)
+![FoxFarm](https://github.com/Svxy/Pot-Growing/blob/grow/assets/foxfarm.png?raw=true)
 
 <br>
 
