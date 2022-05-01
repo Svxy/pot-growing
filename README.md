@@ -5,8 +5,6 @@ ___
 
 <h3 align=center>General Schedules;</h3>
 
-![previewPDF1](https://github.com/Svxy/Pot-Growing/blob/grow/assets/pdf_1.png?raw=true)
-
 ![WateringSchedule](https://github.com/Svxy/Pot-Growing/blob/grow/assets/watering.png?raw=true)
 
 ![Temp](https://github.com/Svxy/Pot-Growing/blob/grow/assets/temp.png?raw=true)
