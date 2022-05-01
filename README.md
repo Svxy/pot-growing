@@ -124,8 +124,6 @@ ___
  - [x] Add nutrients to water (first time) and make new log
  - [x] Water plants on April 22nd (including late bloomers (as an experiment))
  - [x] Water plants on April 26th
- - [ ] Water plants on April 30th
- - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
 <br>
 
@@ -140,5 +138,26 @@ ___
 
 <br>
 
+<h1 align="center">Week 4 Notes/Info;</h1>
+
+<br>
+
+- N/A
+
+<br>
+
+ - [x] Water plants on April 30th
+ - [ ] Water plants on May 4th
+ - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
+
+<br>
+
+<h2 align=center>Week 4 Watering logs;</h2>
+
+> - Watered all plants @ 2:30-2:50PM 4/30/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Cal Mag(1-0-0))
+
+___
+
+<br>
 
 <h4 align="right">By TnyavnTo @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
