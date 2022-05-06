@@ -167,7 +167,7 @@ ___
 
 <br>
 
- - [ ] Water plants on May 9th
+ - [ ] Water plants on May 8th
  - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
  <br>
