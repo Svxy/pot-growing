@@ -145,8 +145,7 @@ ___
 <br>
 
  - [x] Water plants on April 30th
- - [ ] Water plants on May 4th
- - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
+ 
 
 <br>
 
@@ -157,5 +156,24 @@ ___
 ___
 
 <br>
+
+<h1 align="center">Week 5 Notes/Info;</h1>
+
+<br>
+
+- 5/4/22 PH: 6.6-6.8
+- 5/4/22 EC: N/A
+- 5/4/22 Lux: N/A
+
+<br>
+
+ - [ ] Water plants on May 9th
+ - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
+
+ <br>
+
+ <h2 align=center>Week 5 Watering logs;</h2>
+
+ > - Watered all plants @ 4:10-4:50PM 5/4/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Cal Mag(1-0-0))
 
 <h4 align="right">By TnyavnTo @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
