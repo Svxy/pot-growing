@@ -164,10 +164,15 @@ ___
 - 5/4/22 PH: 6.6-6.8
 - 5/4/22 EC: N/A
 - 5/4/22 Lux: N/A
+- 5/8/22 PH: 6.7-6.9
+- 5/8/22 EC: N/A
+- 5/8/22 Lux: N/A
+- Used Tiger Bloom for the first time (1tsp)
 
 <br>
 
- - [ ] Water plants on May 9th
+ - [x] Water plants on May 8th
+ - [ ] Water plants on May 12th
  - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
 
  <br>
@@ -175,5 +180,10 @@ ___
  <h2 align=center>Week 5 Watering logs;</h2>
 
  > - Watered all plants @ 4:10-4:50PM 5/4/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Cal Mag(1-0-0))
+ > - Watered all plants @ 3:10-3:40PM 5/8/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp Tiger Bloom | 1tsp of Cal Mag(1-0-0))
+
+ ___
+
+ <br>
 
 <h4 align="right">By TnyavnTo @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
