@@ -44,18 +44,18 @@ ___
 
 <br>
 
- - [x] Add soil to seed starters.
- - [x] Plant seeds in seed starters.
- - [x] Check PH of nutrients.
- - [x] Add germinated seeds to seed starters.
- - [x] Order necessary equipment on Amazon
- - [x] Make plans for other sprouted seeds
- - [x] Add soil to seed starters for late bloomers
- - [x] Water later bloomers (label and timestamp)
- - [x] Note how often plants are watered and write it down in a log below
- - [x] Started germination process of <b>Banana Wedding Cake</b> seed @ 12:15AM 4/2/22
- - [x] Rewater on April 4th.
- - [x] Rewater late bloomers on April 5th.
+- [x] Add soil to seed starters.
+- [x] Plant seeds in seed starters.
+- [x] Check PH of nutrients.
+- [x] Add germinated seeds to seed starters.
+- [x] Order necessary equipment on Amazon
+- [x] Make plans for other sprouted seeds
+- [x] Add soil to seed starters for late bloomers
+- [x] Water later bloomers (label and timestamp)
+- [x] Note how often plants are watered and write it down in a log below
+- [x] Started germination process of <b>Banana Wedding Cake</b> seed @ 12:15AM 4/2/22
+- [x] Rewater on April 4th.
+- [x] Rewater late bloomers on April 5th.
 
 <br>
 
@@ -86,12 +86,12 @@ ___
 
 <br>
 
- - [x] Move seedlings to bigger pots (URGENT)
- - [x] Rewater on April 7th.
- - [x] Transfer late bloomers to red solo cup
- - [x] Rewater late bloomers on April 8th.
- - [x] Rewater on April 10th
- - [x] Rewater late bloomers on April 11th
+- [x] Move seedlings to bigger pots (URGENT)
+- [x] Rewater on April 7th.
+- [x] Transfer late bloomers to red solo cup
+- [x] Rewater late bloomers on April 8th.
+- [x] Rewater on April 10th
+- [x] Rewater late bloomers on April 11th
 
 <br>
 
@@ -115,13 +115,13 @@ ___
 
 <br>
 
- - [x] Rewater on April 15th
- - [x] Transfer plants and late bloomers to 2 gal pots
- - [x] Rewater late bloomers on April 16th
- - [x] Rewater plants as per transfer 
- - [x] Add nutrients to water (first time) and make new log
- - [x] Water plants on April 22nd (including late bloomers (as an experiment))
- - [x] Water plants on April 26th
+- [x] Rewater on April 15th
+- [x] Transfer plants and late bloomers to 2 gal pots
+- [x] Rewater late bloomers on April 16th
+- [x] Rewater plants as per transfer 
+- [x] Add nutrients to water (first time) and make new log
+- [x] Water plants on April 22nd (including late bloomers (as an experiment))
+- [x] Water plants on April 26th
 
 <br>
 
@@ -144,7 +144,7 @@ ___
 
 <br>
 
- - [x] Water plants on April 30th
+- [x] Water plants on April 30th
  
 
 <br>
@@ -171,19 +171,40 @@ ___
 
 <br>
 
- - [x] Water plants on May 8th
- - [ ] Water plants on May 12th
- - [ ] Maintain seed starters (abiding by the <a href="./WATERING.md">watering schedule</a>)
+- [x] Water plants on May 8th
 
- <br>
+<br>
 
- <h2 align=center>Week 5 Watering logs;</h2>
+<h2 align=center>Week 5 Watering logs;</h2>
 
- > - Watered all plants @ 4:10-4:50PM 5/4/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Cal Mag(1-0-0))
- > - Watered all plants @ 3:10-3:40PM 5/8/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp Tiger Bloom | 1tsp of Cal Mag(1-0-0))
+> - Watered all plants @ 4:10-4:50PM 5/4/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Cal Mag(1-0-0))
+> - Watered all plants @ 3:10-3:40PM 5/8/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp Tiger Bloom | 1tsp of Cal Mag(1-0-0))
 
- ___
+___
 
- <br>
+<br>
+
+<h1 align="center">Week 6 Notes/Info;</h1>
+
+<br>
+
+- 5/12/22 PH: 6.4-6.7
+- Changed light time from 12AM-4PM EST (16 Hours of light) to 4AM-4PMEST (12 Hours of light) on May 12th
+
+<br>
+
+- [x] Water plants on May 8th
+- [x] Water plants on May 12th
+- [ ] Water plants on May 16th
+
+<br>
+
+<h2 align=center>Week 5 Watering logs;</h2>
+
+> - Watered all plants @ 5:40-6:10PM 5/12/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Tiger Bloom | 1&1/2tsp of Cal-Mag(1-0-0))
+
+___
+
+<br>
 
 <h4 align="right">By TnyavnTo @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
