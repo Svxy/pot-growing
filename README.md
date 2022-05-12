@@ -199,7 +199,7 @@ ___
 
 <br>
 
-<h2 align=center>Week 5 Watering logs;</h2>
+<h2 align=center>Week 6 Watering logs;</h2>
 
 > - Watered all plants @ 5:40-6:10PM 5/12/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Tiger Bloom | 1&1/2tsp of Cal-Mag(1-0-0))
 
