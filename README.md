@@ -189,7 +189,6 @@ ___
 
 - 5/12/22 PH: 6.4-6.7
 - Changed light time from 12AM-4PM EST (16 Hours of light) to 4AM-4PMEST (12 Hours of light) on May 12th
-
 - 5/16/22 Testicles found on a single plant, moved outside for extra seeds.
 
 <br>
@@ -197,7 +196,6 @@ ___
 - [x] Water plants on May 8th
 - [x] Water plants on May 12th
 - [x] Water plants on May 16th
-- [ ] Water plants on May 20th
 
 <br>
 
@@ -206,7 +204,26 @@ ___
 > - Watered all plants @ 3:10-3:40PM 5/8/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp Tiger Bloom | 1tsp of Cal Mag(1-0-0))
 > - Watered all plants @ 5:40-6:10PM 5/12/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Tiger Bloom | 1&1/2tsp of Cal-Mag(1-0-0))
 > - Watered all indoor plants @ 6:50-7:10PM 5/16/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Tiger Bloom | 1&1/2tsp of Cal-Mag(1-0-0))
-> - Gave outdoor Male plant a little nutriated water 
+
+___
+
+<br>
+
+<h1 align="center">Week 7 Notes/Info;</h1>
+
+<br>
+
+- 5/20/22 Testicles found on another plant, moved outside.
+- 5/20/22 Last cup used for Purple Punch wasnt nutriated.
+
+<br>
+
+- [x] Water plants on May 20th
+- [ ] Water plants on May 24th (Flush)
+
+<h2 align=center>Week 7 Watering logs;</h2>
+
+> - Watered all plants @ 2:50-3:20PM 5/20/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Tiger Bloom | 1.5tsp of Cal-Mag(1-0-0))
 
 ___
 
