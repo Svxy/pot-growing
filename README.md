@@ -219,12 +219,13 @@ ___
 <br>
 
 - [x] Water plants on May 20th
-- [ ] Water plants on May 24th (Flush)
+- [x] Water plants on May 24th (Flush)
+- [ ] Water plants on May 28th
 
 <h2 align=center>Week 7 Watering logs;</h2>
 
 > - Watered all plants @ 2:50-3:20PM 5/20/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 1tsp of Tiger Bloom | 1.5tsp of Cal-Mag(1-0-0))
-
+> - Watered all plants @ 3:40-4:10PM 5/24/22 (Flushed with fresh ph balanced water)
 ___
 
 <br>
