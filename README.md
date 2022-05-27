@@ -220,7 +220,6 @@ ___
 
 - [x] Water plants on May 20th
 - [x] Water plants on May 24th (Flush)
-- [ ] Water plants on May 28th
 
 <h2 align=center>Week 7 Watering logs;</h2>
 
@@ -229,5 +228,21 @@ ___
 ___
 
 <br>
+
+<h1 align="center">Week 8 Notes/Info;</h1>
+
+<br>
+
+- 5/27/22 Moved all plants into 10 gallon pots with Fox Farms Happy Frog fertilizer.
+
+<br>
+
+- [ ] Water plants on May 28th
+
+<h2 align=center>Week 8 Watering logs;</h2>
+
+> - N/A
+
+___
 
 <h4 align="right">By TnyavnTo @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
