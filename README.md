@@ -234,14 +234,16 @@ ___
 <br>
 
 - 5/27/22 Moved all plants into 10 gallon pots with Fox Farms Happy Frog fertilizer.
+- 5/28/22 Used 4 cups of water for all plants
 
 <br>
 
-- [ ] Water plants on May 28th
+- [x] Water plants on May 28th
+- [ ] Water plants on June 1st
 
 <h2 align=center>Week 8 Watering logs;</h2>
 
-> - N/A
+> - Watered all plants @ 2:40-3:10PM 5/28/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 2tsp of Tiger Bloom | 1.5tsp of Cal-Mag(1-0-0))
 
 ___
 
