@@ -235,15 +235,18 @@ ___
 
 - 5/27/22 Moved all plants into 10 gallon pots with Fox Farms Happy Frog fertilizer.
 - 5/28/22 Used 4 cups of water for all plants
+- 6/1/22 4 Cups seems to be overwatering (Due to burning and drooping); however roots are still short in diameter.
 
 <br>
 
 - [x] Water plants on May 28th
-- [ ] Water plants on June 1st
+- [x] Water plants on June 1st
+- [ ] Water plants on June 5th
 
 <h2 align=center>Week 8 Watering logs;</h2>
 
 > - Watered all plants @ 2:40-3:10PM 5/28/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 2tsp of Tiger Bloom | 1.5tsp of Cal-Mag(1-0-0))
+> - Watered all plants @ 4:50-5:30PM 6/1/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 2tsp of Tiger Bloom | 1.5tsp of Cal-Mag(1-0-0))
 
 ___
 
