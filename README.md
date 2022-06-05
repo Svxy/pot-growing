@@ -241,12 +241,33 @@ ___
 
 - [x] Water plants on May 28th
 - [x] Water plants on June 1st
-- [ ] Water plants on June 5th
 
 <h2 align=center>Week 8 Watering logs;</h2>
 
 > - Watered all plants @ 2:40-3:10PM 5/28/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 2tsp of Tiger Bloom | 1.5tsp of Cal-Mag(1-0-0))
 > - Watered all plants @ 4:50-5:30PM 6/1/22 (With 3tsp of Big Bloom | 2tsp of Grow Big | 2tsp of Tiger Bloom | 1.5tsp of Cal-Mag(1-0-0))
+
+___
+
+<br>
+
+<h1 align="center">Week 9 Notes/Info;</h1>
+
+<br>
+
+- 6/5/22 Watering every 3 days now (week 9)
+- 6/5/22 forgot to ph balance KEKW
+
+<br>
+
+- [x] Water plants on June 5th
+- [ ] Water plants on June 8th
+
+<h2 align=center>Week 9 Watering logs;</h2>
+
+> - Watered all plants @ 7:00-7:30PM 6/5/22 (Flush)
+
+<br>
 
 ___
 
