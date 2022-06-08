@@ -261,14 +261,16 @@ ___
 <br>
 
 - [x] Water plants on June 5th
-- [ ] Water plants on June 8th
+- [x] Water plants on June 8th
+- [ ] Water plants on June 11th
 
 <h2 align=center>Week 9 Watering logs;</h2>
 
 > - Watered all plants @ 7:00-7:30PM 6/5/22 (Flush)
-
-<br>
+> - Watered all plants @ 12:35-1:00PM 6/8/22 (With 3tsp of Big Bloom | 2tsp of Grow Big & Tiger Bloom | 1tsp of Cal-Mag(1-0-0))
 
 ___
 
-<h4 align="right">By TnyavnTo @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
+<br>
+
+<h4 align="right">By <a href='https://tnyavnto.com'>TnyavnTo</a> @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
