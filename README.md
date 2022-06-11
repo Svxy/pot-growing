@@ -1,5 +1,5 @@
 <h1 align="center">Pot Growing</h1>
-<p align="center">This is a repo of walkthroughs, tutorials, and notes for/by <a href="https://sna-organics.com" target="_blank">S&A Oragnics Co.</a></p>
+<p align="center">This is a site of walkthroughs, tutorials, and notes for/by <a href="https://sna-organics.com" target="_blank">S&A Oragnics Co.</a></p>
 
 ___
 
@@ -16,6 +16,10 @@ ___
 ![FoxFarm](https://github.com/Svxy/Pot-Growing/blob/grow/assets/foxfarm.png?raw=true)
 
 <br>
+
+<h3 align="center">Original FoxFarm PDF</h3>
+
+![og](https://github.com/Svxy/Pot-Growing/blob/grow/assets/pdf_1.png?raw=true)
 
 ___
 
@@ -257,17 +261,20 @@ ___
 
 - 6/5/22 Watering every 3 days now (week 9)
 - 6/5/22 forgot to ph balance KEKW
+- 6/11/22 Only Midnight Snack & Purple Punch got week 10 nutrients
 
 <br>
 
 - [x] Water plants on June 5th
 - [x] Water plants on June 8th
-- [ ] Water plants on June 11th
+- [x] Water plants on June 11th
+- [ ] Water plants on June 14th
 
 <h2 align=center>Week 9 Watering logs;</h2>
 
 > - Watered all plants @ 7:00-7:30PM 6/5/22 (Flush)
 > - Watered all plants @ 12:35-1:00PM 6/8/22 (With 3tsp of Big Bloom | 2tsp of Grow Big & Tiger Bloom | 1tsp of Cal-Mag(1-0-0))
+> - Watered all plants @ 12:30-12:50PM 6/11/22 (4/6 of them with nutes from last feed | Purple Punch & Midnight Snack with 3tsp Big Bloom | 2tsp of Tiger Bloom (On account of week 10 nutrients))
 
 ___
 
