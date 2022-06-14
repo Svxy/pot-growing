@@ -261,20 +261,36 @@ ___
 
 - 6/5/22 Watering every 3 days now (week 9)
 - 6/5/22 forgot to ph balance KEKW
-- 6/11/22 Only Midnight Snack & Purple Punch got week 10 nutrients
 
 <br>
 
 - [x] Water plants on June 5th
 - [x] Water plants on June 8th
-- [x] Water plants on June 11th
-- [ ] Water plants on June 14th
 
 <h2 align=center>Week 9 Watering logs;</h2>
 
 > - Watered all plants @ 7:00-7:30PM 6/5/22 (Flush)
 > - Watered all plants @ 12:35-1:00PM 6/8/22 (With 3tsp of Big Bloom | 2tsp of Grow Big & Tiger Bloom | 1tsp of Cal-Mag(1-0-0))
+
+___
+
+<br>
+
+<h1 align="center">Week 10 Notes/Info;</h1>
+
+<br>
+
+- 6/11/22 Only Midnight Snack & Purple Punch got week 10 nutrients
+
+<br>
+- [x] Water plants on June 11th
+- [x] Water plants on June 14th
+- [ ] Water plants on June 17th
+
+<h2 align=center>Week 10 Watering logs;</h2>
+
 > - Watered all plants @ 12:30-12:50PM 6/11/22 (4/6 of them with nutes from last feed | Purple Punch & Midnight Snack with 3tsp Big Bloom | 2tsp of Tiger Bloom (On account of week 10 nutrients))
+> - Watered all plants @ 2:00-2:30PM 6/14/22 (3 tsp of Big Bloom | 2tsp of Tiger Bloom)
 
 ___
 
