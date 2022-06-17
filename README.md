@@ -285,12 +285,30 @@ ___
 <br>
 - [x] Water plants on June 11th
 - [x] Water plants on June 14th
-- [ ] Water plants on June 17th
 
 <h2 align=center>Week 10 Watering logs;</h2>
 
 > - Watered all plants @ 12:30-12:50PM 6/11/22 (4/6 of them with nutes from last feed | Purple Punch & Midnight Snack with 3tsp Big Bloom | 2tsp of Tiger Bloom (On account of week 10 nutrients))
-> - Watered all plants @ 2:00-2:30PM 6/14/22 (3 tsp of Big Bloom | 2tsp of Tiger Bloom)
+> - Watered all plants @ 2:00-2:30PM 6/14/22 (3tsp of Big Bloom | 2tsp of Tiger Bloom)
+
+___
+
+<br>
+
+<h1 align="center">Week 11 Notes/Info;</h1>
+
+<br>
+
+- N/A 
+
+<br>
+
+- [x] Water plants on June 17th
+- [ ] Water plants on June 20th
+
+<h2 align=center>Week 11 Watering logs;</h2>
+
+> - Watered all plants @ 4:30-5:00PM 6/17/22 (3tsp of Big Bloom | 2tsp of Tiger Bloom)
 
 ___
 
