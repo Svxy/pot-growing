@@ -1,7 +1,17 @@
 <h1 align="center">Pot Growing</h1>
 <p align="center">This is a site of walkthroughs, tutorials, and notes for/by <a href="https://sna-organics.com" target="_blank">S&A Oragnics Co.</a></p>
 
+<br>
+
+<p align='center'><sup><a href='https://tnyavnto.com/pot-growing/'>https://tnyavnto.com/pot-growing/</a></sup></p>
+
+<br>
+
+<p align=center><a href='./watering.html'>See watering info/help</a></p>
+
 ___
+
+<br>
 
 <h3 align=center>General Schedules;</h3>
 
@@ -299,16 +309,18 @@ ___
 
 <br>
 
-- N/A 
+- 6/20/22 Flushed all plants with 5ml of Cal-Mag(1-0-0)
 
 <br>
 
 - [x] Water plants on June 17th
-- [ ] Water plants on June 20th
+- [x] Water plants on June 20th
+- [ ] Water plants on June 23rd
 
 <h2 align=center>Week 11 Watering logs;</h2>
 
 > - Watered all plants @ 4:30-5:00PM 6/17/22 (3tsp of Big Bloom | 2tsp of Tiger Bloom)
+> - Watered all plants @ 10:10-10:40PM 6/20/22 (1tsp of Cal-Mag(1-0-0)(Flush))
 
 ___
 
