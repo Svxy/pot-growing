@@ -7,7 +7,7 @@
 
 <br>
 
-<p align=center><a href='./watering.html'>See watering info/help</a></p>
+<p align=center><a href='./watering/'>See watering info/help</a></p>
 
 ___
 
