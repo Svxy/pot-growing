@@ -315,12 +315,30 @@ ___
 
 - [x] Water plants on June 17th
 - [x] Water plants on June 20th
-- [ ] Water plants on June 23rd
 
 <h2 align=center>Week 11 Watering logs;</h2>
 
 > - Watered all plants @ 4:30-5:00PM 6/17/22 (3tsp of Big Bloom | 2tsp of Tiger Bloom)
 > - Watered all plants @ 10:10-10:40PM 6/20/22 (1tsp of Cal-Mag(1-0-0)(Flush))
+
+___
+
+<br>
+
+<h1 align="center">Week 12 Notes/Info;</h1>
+
+<br>
+
+- 6/23/22 Used 3 and a half cups of water instead of 3 assuming roots have grown throughout entire pot
+
+<br>
+
+- [x] Water plants on June 23rd
+- [ ] Water plants on June 26th
+
+<h2 align=center>Week 12 Watering logs;</h2>
+
+> - Watered all plants @ 1:30-2:00PM 6/23/22 (With 1tsp of Cal-Mag(1-0-0)(Flush 2))
 
 ___
 
