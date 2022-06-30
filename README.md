@@ -331,18 +331,21 @@ ___
 
 - 6/23/22 Used 3 and a half cups of water instead of 3 assuming roots have grown throughout entire pot
 - 6/27/22 Forgot to water yesterday was getting drunk.  2/6 plants watered with flush nutes (Just cal-mag and ph down)
+- 6/30/22 it is now week 13 but amazon is ass and we dont have everything yet...
 
 <br>
 
 - [x] Water plants on June 23rd
 - [x] Water plants on June 26th
-- [ ] Water plants on June 30th
+- [x] Water plants on June 30th
+- [ ] Water plants on July 3rd
 
 <h2 align=center>Week 12 Watering logs;</h2>
 
 > - Watered all plants @ 1:30-2:00PM 6/23/22 (With 1tsp of Cal-Mag(1-0-0)(Flush 2))
 > - Watered 2/6 plants with: | 1tsp of Cal-Mag | (1-0-0) | (Flush)
 > - Watered 4/6 plants with: | 2tsp of Big Bloom | 1tsp of Tiger Bloom | 1tsp of cal-mag(1-0-0)
+> - Watered all plants with: | 3tsp Big Bloom | 1tsp Tiger Bloom | 1tsp of cal-mag(1-0-0) 
 
 ___
 
