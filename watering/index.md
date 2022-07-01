@@ -5,6 +5,8 @@ ___
 
 <br>
 
+<p align=center><a href='https://tnyavnto.com/pot-growing/'>Back to main page</a></p>
+
 <h3 align="center">General Watering Notes/Info;</h3>
 
 <br>
