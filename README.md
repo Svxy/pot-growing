@@ -9,7 +9,7 @@
 
 <p align=center><a href='./watering/'>See watering info/help</a></p>
 
-<h2 align=center><a href='./week1/'>See Week 1 notes</a></h2>
+<h2 align=center><a href='./grow1/'>See Grow 1 notes</a></h2>
 
 ___
 
