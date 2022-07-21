@@ -13,21 +13,21 @@ ___
 
 <h3 align=center>General Schedules;</h3>
 
-<p align=center><img src='https://github.com/Svxy/Pot-Growing/blob/grow/assets/watering.png?raw=true' style='Width: 1080px; height: auto;'></p>
+<p align=center><img src='https://github.com/Svxy/Pot-Growing/blob/grow/assets/watering.png?raw=true' style='Width: 600px; height: auto;'></p>
 
-<p align=center><img src='https://github.com/Svxy/Pot-Growing/blob/grow/assets/temp.png?raw=true' style='Width: 1080px; height: auto;'></p>
+<p align=center><img src='https://github.com/Svxy/Pot-Growing/blob/grow/assets/temp.png?raw=true' style='Width: 600px; height: auto;'></p>
 
 <br>
 
 <h3 align="center">Official FoxFarm PDF</h3>
 
-<p align=center><img src='https://github.com/Svxy/Pot-Growing/blob/grow/assets/foxfarm.png?raw=true' style='Width: 1080px; height: auto;'></p>
+<p align=center><img src='https://github.com/Svxy/Pot-Growing/blob/grow/assets/foxfarm.png?raw=true' style='Width: 600px; height: auto;'></p>
 
 <br>
 
 <h3 align="center">Original FoxFarm PDF</h3>
 
-<p align=center><img src='https://github.com/Svxy/Pot-Growing/blob/grow/assets/pdf_1.png?raw=true' style='Width: 1080px; height: auto;'></p>
+<p align=center><img src='https://github.com/Svxy/Pot-Growing/blob/grow/assets/pdf_1.png?raw=true' style='Width: 600px; height: auto;'></p>
 
 ___
 
@@ -47,7 +47,7 @@ ___
 
 <br>
 
-> - Watered all 4 <b>Glueberry OG</b> with: | N/A
+> - Watered all 4 <b>Glueberry OG</b> with: | N/A600px
 
 ___
 
