@@ -47,7 +47,7 @@ ___
 
 <br>
 
-> - Watered all 4 <b>Glueberry OG</b> with: | N/A600px
+> - Watered all 4 <b>Glueberry OG</b> with: | N/A
 
 ___
 
