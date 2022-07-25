@@ -41,7 +41,7 @@ ___
 <br>
 
 - [x] Transplanted Clones from solo cups to 1 gallon fabric pots.
-7/25/22 Decided to use week 3 nutes on account of clones age.
+- 7/25/22 Decided to use week 3 nutes on account of clones age.
 - [ ] Top (Trim main cola off to split (multiplies yield)) in week 2 (4 weeks old)
 
 <br>
