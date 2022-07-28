@@ -41,7 +41,7 @@ ___
 <br>
 
 - [x] Transplanted Clones from solo cups to 1 gallon fabric pots.
-- [ ] Topped (Trim main cola off to split (multiplies yield)) in week 2 (4 weeks old)
+- [x] Topped (Trim main cola off to split (multiplies yield)) in week 2 (4 weeks old)
 - 7/25/22 Decided to use week 3 nutes on account of clones age.
 
 <br>
@@ -51,10 +51,27 @@ ___
 <br>
 
 > - Watered all 4 <b>Glueberry OG</b> with: | N/A
-> - Watered all 4 <b>Glueberry OG</b> with: | 1tsp Cal-Mag(1-0-0) | 1tsp Grow Big | 2tsp Big Bloom
+> - Watered all 4 <b>Glueberry OG</b> with: | 1ml~ Cal-Mag(1-0-0) | 1ml~ Grow Big | 2ml~ Big Bloom
 
 ___
 
 <br>
+
+<h2 align=center>Week 4 notes:</h2>
+
+<br>
+
+- 7/28/22 PH 6.7~
+- 7/28/22 Waited 3 days instead of 4
+- [x] Water plants on 7/28/22
+- [ ] Water plants on 9/1/22
+
+<br>
+
+<h2 align=center>Water Log</h2>
+
+<br>
+
+> - Watered all 4 <b>Glueberry OG</b> with: | 4ml~ Big Bloom | 2ml~ Grow Big | 1.5ml~ Cal-Mag(1-0-0)
 
 <h4 align="right">By <a href='https://tnyavnto.com'>TnyavnTo</a> @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
