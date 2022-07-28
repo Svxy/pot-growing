@@ -74,4 +74,8 @@ ___
 
 > - Watered all 4 <b>Glueberry OG</b> with: | 4ml~ Big Bloom | 2ml~ Grow Big | 1.5ml~ Cal-Mag(1-0-0)
 
+___
+
+<br>
+
 <h4 align="right">By <a href='https://tnyavnto.com'>TnyavnTo</a> @ <a href="https://sna-organics.com">S&A Organics Co.</a></h4>
