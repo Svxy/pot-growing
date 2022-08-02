@@ -64,7 +64,7 @@ ___
 - 7/28/22 PH 6.7~
 - 7/28/22 Waited 3 days instead of 4
 - [x] Water plants on 7/28/22
-- [ ] Water plants on 9/1/22
+- [x] Water plants on 8/1/22
 
 <br>
 
@@ -73,6 +73,26 @@ ___
 <br>
 
 > - Watered all 4 <b>Glueberry OG</b> with: | 4ml~ Big Bloom | 2ml~ Grow Big | 1.5ml~ Cal-Mag(1-0-0)
+> - Watered all 4 <b>Glueberry OG</b> with: | 4ml~ Big Bloom | 2ml~ Grow Big | 1.5ml~ Cal-Mag(1-0-0)
+
+___
+
+<br>
+
+<h2 align=center>Week 5 notes:</h2>
+
+<br>
+
+- 8/1/22 Got Lux meter
+- [ ] Water plants on 8/5/22
+
+<br>
+
+<h2 align=center>Water Log</h2>
+
+<br>
+
+> - N/A | N/A
 
 ___
 
